@@ -1,7 +1,5 @@
 package com.circular.queue;
 
-package com.circular.queue;
-
 /***
  * 
  * @author nikhils4
